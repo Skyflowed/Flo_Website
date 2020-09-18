@@ -1,0 +1,51 @@
+/*Header*/
+nav.menu_nav ul li.button{
+	list-style-type: none;
+	display: inline-block;
+}
+
+nav.menu_nav ul li.button a{
+	color : #ffffff;
+	text-decoration: none;
+	padding:20px;
+	font-family: cursive;
+	font-size: 30px;
+}
+
+nav.menu_nav ul li.button:hover a{
+	color : #000;
+	background-color: #fff;
+	transition: 0.8s; all
+}
+
+/*Body*/
+body{
+	background-color: #3BD5A1;
+}
+
+h2.master_title{
+	font-size :100px;
+	font-family: cursive;
+	margin-top: 250px;
+	color:#ffffff;
+}
+
+p.subtitle{
+	font-size:40px;
+	font-family: cursive;
+	color:#ffffff;
+	margin-top: -85px;
+}
+
+/*Footer*/
+
+p.author{
+	margin-top: -9px;
+	color:#ffffff;
+}
+
+img.eseo_logo{
+	margin-top: 560px;
+	margin-left: 1985px;
+
+}
