@@ -48,3 +48,9 @@
   font-size: 25px;
   font-family: 'Electrolize', sans-serif;
 }
+
+.message h1{
+  font-size: 20px;
+  font-family: 'Electrolize', sans-serif;
+  color: #fff;
+}
